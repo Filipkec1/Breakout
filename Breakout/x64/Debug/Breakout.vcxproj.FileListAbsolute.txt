@@ -2,3 +2,5 @@ D:\Breakout\Breakout\x64\Debug\Breakout.exe
 D:\Breakout\Breakout\x64\Debug\Breakout.pdb
 D:\Breakout\Breakout - Textures\x64\Debug\Breakout.exe
 D:\Breakout\Breakout - Textures\x64\Debug\Breakout.pdb
+D:\Breakout\TEST\Breakout\Breakout\x64\Debug\Breakout.exe
+D:\Breakout\TEST\Breakout\Breakout\x64\Debug\Breakout.pdb

@@ -1,2 +1,11 @@
-﻿  Game.cpp
-  Breakout.vcxproj -> D:\Breakout\Breakout - Textures\x64\Debug\Breakout.exe
+﻿  AssetManager.cpp
+  Collision.cpp
+  ECS.cpp
+  Vector2D.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+  TextureManager.cpp
+  Generating Code...
+  Breakout.vcxproj -> D:\Breakout\TEST\Breakout\Breakout\x64\Debug\Breakout.exe
